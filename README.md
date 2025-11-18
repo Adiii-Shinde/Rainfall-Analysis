@@ -29,6 +29,7 @@ This project showcases a **complete ETL pipeline** integrating cloud data storag
 | **Data Format** | CSV |
 | **Cloud Infrastructure** | AWS IAM & S3 Integration |
 
+
 ### Architecture Flow
 ```
 Data Source (CSV)
@@ -245,6 +246,9 @@ SELECT DISTINCT season FROM fact_agricultural_data;
    - Verify data quality: `sql/03_validation.sql`
 
 ---
+
+## Preview
+<img width="1278" height="720" alt="Rainfall Analysis" src="https://github.com/user-attachments/assets/72fd92de-a4ec-46e3-b050-576530d9fa40" />
 
 ## 📈 Key Performance Indicators (KPIs)
 
