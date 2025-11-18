@@ -309,23 +309,13 @@ agricultural-data-analytics/
 ├── data/
 │   └── data_season.csv
 ├── sql/
-│   ├── 01_stage_creation.sql
-│   ├── 02_data_loading.sql
-│   ├── 03_data_cleaning.sql
-│   ├── 04_transformations.sql
-│   └── 05_validation.sql
+│   4 files 
 ├── reports/
 │   ├── Rainfall_Analysis.pbix
-│   ├── Temperature_Analysis.pbix
-│   ├── Humidity_Analysis.pbix
-│   └── Yields_Analysis.pbix
-├── docs/
-│   ├── ARCHITECTURE.md
-│   ├── ETL_PIPELINE.md
-│   └── DASHBOARD_GUIDE.md
-└── scripts/
-    ├── aws_setup.sh
-    └── snowflake_config.sql
+│   ├── Rainfall_Analysis.pdf
+│  
+├── Screenshots/
+
 ```
 
 ---
@@ -380,7 +370,7 @@ Contributions are welcome! Please:
 
 ## 📝 License
 
-This project is licensed under the **MIT License** - see LICENSE file for details.
+
 
 ---
 
@@ -388,9 +378,8 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 
 For questions, issues, or collaboration:
 - **GitHub Issues**: Open an issue in the repository
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile]
-- **Twitter**: [@yourhandle]
+- **Email**: adityashinde952003@gmail.com
+
 
 ---
 
